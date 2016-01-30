@@ -1,0 +1,12 @@
+C:\Users\Steven\Source\Repos\WebUserProvisioning\bin\Debug\WebUserProvisioning.exe.config
+C:\Users\Steven\Source\Repos\WebUserProvisioning\obj\Debug\WebUserProvisioning.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Source\Repos\WebUserProvisioning\bin\Debug\WebUserProvisioning.exe
+C:\Users\Steven\Source\Repos\WebUserProvisioning\bin\Debug\WebUserProvisioning.pdb
+C:\Users\Steven\Source\Repos\WebUserProvisioning\bin\Debug\CsvHelper.dll
+C:\Users\Steven\Source\Repos\WebUserProvisioning\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Steven\Source\Repos\WebUserProvisioning\bin\Debug\CsvHelper.pdb
+C:\Users\Steven\Source\Repos\WebUserProvisioning\bin\Debug\CsvHelper.xml
+C:\Users\Steven\Source\Repos\WebUserProvisioning\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Steven\Source\Repos\WebUserProvisioning\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Steven\Source\Repos\WebUserProvisioning\obj\Debug\WebUserProvisioning.exe
+C:\Users\Steven\Source\Repos\WebUserProvisioning\obj\Debug\WebUserProvisioning.pdb
